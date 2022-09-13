@@ -1,0 +1,6 @@
+Baris Guzelsoy CSC 253
+
+Elective methods:
+rposition, max_by, try_fold, cycle
+
+12 test functions and num of tests
